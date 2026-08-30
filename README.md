@@ -5,7 +5,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=god-coder23&style=flat-square&color=58a6ff)
-[![LeetCode](https://img.shields.io/badge/LeetCode-158%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yatnesh23/)
 [![Portfolio](https://img.shields.io/badge/Deployed_Projects-9+-3fb950?style=flat-square&logo=vercel&logoColor=white)](https://github.com/god-coder23)
 
 </div>
