@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=god-coder23&style=flat-square&color=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=yatnesh-agarwal&style=flat-square&color=58a6ff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yatnesh_Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatnesh-agarwal-398759376)
 [![Email](https://img.shields.io/badge/Email-yatnesh65@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatnesh65@gmail.com)
@@ -100,7 +100,7 @@ Open-source mock interview platform — speak your answers, get AI follow-ups, s
 
 `React` `Node.js` `MongoDB` `Ollama`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/god-coder23/AI_Interview_Prep)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/yatnesh-agarwal/AI_Interview_Prep)
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Audits a startup's SaaS & AI subscriptions and surfaces overspending and downgra
 `React` `Tailwind` `Firestore` `Gemini`
 
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=flat-square)](https://spendlens-steel.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/god-coder23/spendlens)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/yatnesh-agarwal/spendlens)
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ Upload a resume, paste a job description — get instant alignment and skill-gap
 `React 19` `Cloudflare Workers` `Tailwind`
 
 [![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=flat-square)](https://ai-resume-anaylzer-iota.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/god-coder23/ai_resume_anaylzer)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/yatnesh-agarwal/ai_resume_anaylzer)
 
 </td>
 </tr>
@@ -143,11 +143,11 @@ Upload a resume, paste a job description — get instant alignment and skill-gap
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yatnesh-agarwal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=god-coder23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatnesh-agarwal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=god-coder23&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yatnesh-agarwal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
 </div>
 
 ---
