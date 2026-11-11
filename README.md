@@ -135,6 +135,23 @@ Upload a resume, paste a job description — get instant alignment and skill-gap
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📚 PDF-Pulse — PDF Chat RAG App
+Full-stack Retrieval-Augmented Generation app: upload one or more PDFs, ask questions, and get answers grounded in your documents with page-level references.
+
+- Page-wise PDF parsing, overlapping chunking and **Gemini embeddings**, stored in **Pinecone**
+- Top-match retrieval feeds context to **Groq** for answer generation
+- Per-session Pinecone namespaces (`x-session-id`) keep each user's documents isolated
+
+`React 19` `Vite` `Tailwind CSS` `Express` `Pinecone` `Gemini` `Groq`
+
+[![Live](https://img.shields.io/badge/Live_Demo-58a6ff?style=flat-square)](https://pdfpulse-delta.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/yatnesh-agarwal/PDF-Pulse)
+
+</td>
+</tr>
 </table>
 
 ---
